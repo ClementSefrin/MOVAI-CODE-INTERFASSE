@@ -1,0 +1,26 @@
+﻿body{
+    background-image: url(../images/shrek.png);
+}
+
+.normal {
+    background-color: #F7FF3C;
+    font-family:'Curlz MT';
+}
+
+.sortie {
+    margin-top: 500px;
+    margin-left: 800px;
+}
+
+a {
+    text-decoration:none;
+}
+
+
+button:hover {
+    margin-left: 100px;
+}
+
+.p3 {
+    transform: rotate(-130deg);
+}

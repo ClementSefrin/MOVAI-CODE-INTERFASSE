@@ -1,0 +1,166 @@
+body {
+    background-color: #F7FF3C;
+    background-image: url(../images/fond_decran.png);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    scrollbar-width: none;
+}
+
+.rainbow {
+    background-image: url(../images/background.png);
+}
+
+#barre_fixe1 {
+    position: fixed;
+    top: 0px;
+    margin-left: 21%;
+    width: 3px;
+    height: 100%;
+    background: #31472a;
+}
+
+#barre_fixe2 {
+    position: fixed;
+    top: 0px;
+    margin-left: 75%;
+    width: 2px;
+    height: 100%;
+    background: #3cff00;
+}
+
+#barre_fixe3 {
+    position: fixed;
+    top: 0px;
+    margin-left: 80%;
+    width: 3px;
+    height: 100%;
+    background: #000000;
+}
+
+#barre_fixe31 {
+    position: fixed;
+    top: 0px;
+    margin-left: 81%;
+    width: 3px;
+    height: 100%;
+    background: #000000;
+}
+
+#barre_fixe4 {
+    position: fixed;
+    top: 0px;
+    margin-left: 50%;
+    width: 1px;
+    height: 100%;
+    background: #3cff00;
+}
+
+#barre_fixe5 {
+    position: fixed;
+    top: 0px;
+    margin-left: 50px;
+    width: 4px;
+    height: 100%;
+    background: #6112bb;
+}
+
+#barre_fixe51 {
+    position: fixed;
+    top: 0px;
+    margin-left: 56px;
+    width: 1px;
+    height: 100%;
+    background: #6112bb;
+}
+
+#barre_fixe52 {
+    position: fixed;
+    top: 0px;
+    margin-left: 45px;
+    width: 2px;
+    height: 100%;
+    background: #6112bb;
+}
+
+#barre_fixe6 {
+    position: fixed;
+    top: 0px;
+    margin-left: 598px;
+    width: 5px;
+    height: 100%;
+    background: #3cff00;
+}
+
+#barre_fixe7 {
+    position: fixed;
+    top: 0px;
+    margin-left: 608px;
+    width: 2px;
+    height: 100%;
+    background: #3cff00;
+}
+
+#barre_fixe8 {
+    position: fixed;
+    top: 0px;
+    margin-left: 612px;
+    width: 3px;
+    height: 100%;
+    background: #3cff00;
+}
+
+
+p {
+    text-decoration: underline overline #FF3028;
+    font-size: 100px;
+    color: #39FF14;
+    border-style: double;
+    border-width: 200px;
+    border-color: #FA25CB;
+    font-family: 'Curlz MT';
+}
+
+.pass {
+    margin-left:5000px;
+}
+
+.header {
+    margin-left: 1000px;
+}
+
+.button {
+    display: block;
+    font-family: 'Curlz MT';
+}
+
+
+
+figure{display:inline-block;width:320px; vertical-align:top}
+
+button {
+    width: 100%;
+    height: 111px;
+    font-size: 40px;
+    font-family: 'Curlz MT';
+}
+
+
+.p1{
+    transform:rotate(180deg);
+}
+
+.p2 {
+    transform: rotate(-60deg);
+}
+
+.p3 {
+    transform: rotate(-130deg);
+}
+
+.p4 {
+    transform: rotate(-79deg);
+}
+
+.p5 {
+    transform: rotate(90deg);
+}
